@@ -10,11 +10,11 @@ body {
 	margin: 1%;
 }
 
-.site-title, .site-title:visited, .post-title {
+.post-title, a:visited {
 	color: green;
 }
 
-.page-link, .page-link:visited {
+.site-nav .page-link, .page-link:visited {
 	color: red;
 }
 
@@ -34,10 +34,9 @@ img.float-left {
 	margin-right: 15px;
 }
 
-.align-helper {
-    display: inline-block;
-    //height: 100%;
-    vertical-align: middle;
+dt {
+	font-weight: bold;
+	margin-top: 1.5em;
 }
 
 .username {

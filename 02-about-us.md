@@ -1,8 +1,8 @@
 ---
 title: About Windsor Morris
-permalink: about.html
-menus: header
+permalink: about-us.html
 layout: page
+public: true
 ---
 
 As our name suggests, we are based in _Windsor_, in Berkshire, one of the 'Home Counties' to the west of London, England. The town is dominated by the magnificent castle, one of the Queen's main residences, which is portrayed in our logo.

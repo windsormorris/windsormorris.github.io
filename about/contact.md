@@ -1,8 +1,7 @@
 ---
 title: Contact details
-permalink: contact.html
-menus: header
 layout: page
+private: true
 ---
 
 For any enquires, please contact:-

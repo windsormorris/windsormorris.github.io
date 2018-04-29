@@ -2,6 +2,7 @@
 title: Taster Sessions
 permalink: course.html
 layout: page
+public: true
 ---
 
 <div markdown='block' style='float: right; margin-left: 20px;'>

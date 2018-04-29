@@ -1,8 +1,8 @@
 ---
 title: About Morris Dancing
 permalink: about-morris.html
-menus: header
 layout: page
+public: true
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/common
