@@ -1,6 +1,8 @@
 ---
 title: Contact details
 permalink: contact.html
+menus: header
+layout: page
 ---
 
 For any enquires, please contact:-

@@ -1,6 +1,8 @@
 ---
 title: Taster Sessions
 permalink: course.html
+layout: page
+menus: header
 ---
 
 Morris Dancing Taster Sessions

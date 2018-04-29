@@ -1,10 +1,9 @@
 ---
 title: About Morris Dancing
 permalink: about-morris.html
+menus: header
+layout: page
 ---
-
-About Morris Dancing
---------------------
 
 ![](http://upload.wikimedia.org/wikipedia/common
 s/d/de/Will_Kemp_Elizabethan_Clown_Jig.jpg)
