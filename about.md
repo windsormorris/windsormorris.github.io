@@ -1,15 +1,35 @@
 ---
-layout: page
-title: About
-permalink: /about/
+title: About Windsor Morris
+permalink: about.html
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+A little about Windsor Morris ...
+---------------------------------
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+As our name suggests, we are based in _Windsor_, in Berkshire, one of the 'Home Counties' to the west of London, England. The town is dominated by the magnificent castle, one of the Queen's main residences, which is portrayed in o ur logo.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+The side was founded in 1974, which makes us one of the l ongest-established women's morris teams in the country.
+
+![](/images/Warwick 2005 tn.jpeg)We are a friendly, energetic and enthusiastic group who enjoy dancing together and taking our danc es to a variety of audiences. We get together every week, on a Wednesday evening , to work on perfecting our team-work, training up new dancers and musicians, an d inventing new dances. The dancers in the team are all female, since we aim to have a consistent team style, but we have some male musicians (sometimes known t easingly as 'the eye candy').
+
+Our dances are based on the styles performed at the end of the nineteenth cen tury in the Cotswold villages of [Badby](http://badbyvillage.com/) and [Brackley](http://www.brackleynorthants-tc.gov.uk/). We perform to the lively mus ic of the melodeon, accompanied by an uplifting drumbeat. We have adapted these styles to provide an exciting spectacle and continue to compose new dances. We a im to dance in a lively and energetic manner (well, most of the time!). We also like to create new dances - like our predecessors, we are keeping morris dancing alive by adapting it.
+
+In 2005 we adopted a new 'Tradition' (style of dance steps and figures), base d on [_Minneapolis-on-Charles_](http://www.commonwealthmorris.org
+/repertoire.html), a style developed by [The Co mmonwealth Morris Men](http://www.commonwealthmorris.org/) in the USA. We first saw them dance it at the [Marlboro Morris Ale](https://www.facebook.com/MarlboroMorrisAle) in 1983, and learned the details from [Tim Radford](http://www.timradford.com/tim.html) at an Advanced Morris Weekend some twenty years later!
+
+In homage to the original, we call it _Windsor-on-Thames_.
+
+In summer we perform at venues in and around Windsor and further afield at fe stivals, and as guests of other Morris sides. Check out our [programme](wm_programme.html) for more details.
+
+![](images/Sally Sidmouth 2012.jpg) ![](images/Cherry pointing.jpg)
+
+We are easily spotted in our sparkling white kit, with splashes of green, red and yellow on our rosettes and ribbons providing a colourful contrast. Watch ou t for our 'Fools', who act as our MCs and can give us a noisy whack with the bla dder if we step out of line - Cherry, with the Round Tower hat, and Sally, given to green waistcoats and punning limericks.
+
+We are often asked how we keep our kit sparkling white. Quite easy really - we avoid messy food, children and dogs, and don't sit down all day!
+
+We [run a 'taster' course every Autumn](wm_course.html) at which **you too** can learn to dance.
+
+In September 2011, a history of Windsor Morris was published in _English Dance and Song_, the magazine of the [English Folk Dance and Song Society](http://www.efd
+ss.org). In it you can read about the "i nteresting times" in the 1970's when it was revolutionary for women to dance the Morris.
+
+Here is our [programme](/wm_programme.html) or you can [contact us](/wm_contact.html) for more details.
