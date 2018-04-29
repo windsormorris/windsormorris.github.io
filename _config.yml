@@ -14,14 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Windsor Morris Dancers
-email: webmaster@windsormorris.org.uk
+email: secretary@windsormorris.org.uk
+author: Jerry West
 description: > # this means to ignore newlines until "baseurl:"
-  Information about Windsor Morris Dancers, based in Windsor in the Royal
-  County of Berkshire, England.
+  Dancing Cotswold Morris since 1976.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: WMwindsormorris
 github_username:  windsormorris
+facebook_username: windsormorrisdancers
 
 # Build settings
 markdown: kramdown
